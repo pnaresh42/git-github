@@ -1,1 +1,2 @@
-Hi this is my new file in new branch in master branch
+Hi this is my new file in new branch in master branch with git tutorial
+
