@@ -1,0 +1,27 @@
+1) What is call by value and call by reference?
+2) What is the differnce between constructor and method in Java?
+3) What is inheritance ,overloading and overriding?
+4) can you tell me the hierarchy of Collection Framework?
+5) what is the difference between Array, Arraylist and Linkedlist?
+6) what is tree set, and how does mapping works in collections?
+7) How can we connect the java application with database and also tell me what are the steps involved in it?
+8) What are the new features of Java 8? Explain me about functional interface, Lambda Expressions, stream api, and method reference?
+9) what is the differnce between stanalone applications and dynamic applications?
+10)can you explain me about servlets and its life cycle?
+11) Can you explain me about session tracking in servlets, what is the essence of it and how do you perform session tracking using servlets?
+12) What is the differnce between Servlets and JSPs?
+13) Can you tell me what are the different scripting elements in JSP?
+14) Explain about JSP directive elements?
+15) what do you know about MAVEN projects why we use it?
+16) What is MVC framework and what are the rules and regulations involved in it?
+17) what do you know about spring framework and explain me about its layers?
+18) Explain about Inversion of Control (IoC) and Dependency Injection (DI) in spring framework?
+19) what is the difference between spring and spring boot?
+20) what do you know about JPA and hibernate?
+21) what do you know about log4j?
+22) why we need webservices and what are the different types of web services available?
+23) what is the difference between SOAP and RESTful webservices?
+24) what is service layer and business logic layer and database layer?
+25) Do you know anything about Junits, why we use them?
+
+
